@@ -1,6 +1,10 @@
 {
     "Nearby": {
-      "place": { "string" : ["Andi","Tono"]},
+      "place": { "string" : ["Ujung Park","Tirta Gangga"]},
       "distant": {"regexp" : "[1-2][0-9]{1,2}[][m]|[1-2][0-9]{1,2}[m]"}     
+    },
+    "Popular":{
+        "place" : {"string" : ["Kelingking Beach","Garuda Wisnu"]},
+        "map" :  {"string":["Nusa Penida"]}
     }
   }
