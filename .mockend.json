@@ -1,6 +1,6 @@
 {
     "User": {
-      "Name": { "String": {"regexp": "[A-Z][a-z]{5,10}" } }
+      "name": { "regexp": "[A-Z][a-z]{5,10}" }
       
     }
   }
