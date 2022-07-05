@@ -1,7 +1,5 @@
 {
     "User": {
-      "name":{ "string" : ["Andi","Tono"]},
-      "umur": {"regexp": "[1-4][2-6]{1,2}"}
-      
+      "name":{ "string" : ["Andi","Tono"]}      
     }
   }
