@@ -5,6 +5,6 @@
     },
     "Popular":{
         "place" : {"string" : ["Kelingking Beach","Garuda Wisnu"]},
-        "map" :  {"string":["Nusa Penida"]}
+        "map" :  {"string":["Nusa Penida","Denpasar"]}
     }
   }
