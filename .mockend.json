@@ -40,6 +40,6 @@
         "What a beautiful place!"
       ]
     },
-    "star": {"regexp": "[1-5][.][1-5]{3}"}
+    "star": {"regexp": "[1-5][.][1-5]{1}"}
   }
   }
