@@ -9,6 +9,8 @@
         "assets/images/tirtagangga.jpg",
         "assets/images/ujungkulon.JPG"
       ]
+    },    "map": {
+      "string": ["Klungkung", "Denpasar", "Nusa Dua"]
     },
     "desc": {
       "string": [
