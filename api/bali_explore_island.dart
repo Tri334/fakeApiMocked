@@ -9,7 +9,15 @@ var bali_explore_island = {
         "assets/images/tirtagangga.jpg",
         "assets/images/ujungkulon.JPG"
       ]
-    }
+    },
+    "desc": {
+      "string": [
+        "This place is awsome!!!",
+        "This is a strange place to be...",
+        "What a beautiful place!"
+      ]
+    },
+    "star": {"regexp": "[1-5][.][1-5]{3}"}
   },
   "Popular": {
     "place": {
@@ -24,6 +32,14 @@ var bali_explore_island = {
         "assets/images/gwk.jpg",
         "assets/images/nusalembongan.jpg"
       ]
-    }
+    },
+    "desc": {
+      "string": [
+        "This place is awsome!!!",
+        "This is a strange place to be...",
+        "What a beautiful place!"
+      ]
+    },
+    "star": {"regexp": "[1-5][.][1-5]{3}"}
   }
 };
