@@ -17,7 +17,7 @@
         "What a beautiful place!"
       ]
     },
-    "star": {"regexp": "[1-5][.][0-5]"}
+    "star": {"regexp": "[1-5][.][0-5]"},"favorite":{"boolean" : {}}
   },
   "Popular": {
     "place": {
@@ -40,6 +40,6 @@
         "What a beautiful place!"
       ]
     },
-    "star": {"regexp": "[1-5][.][0-5]"}
+    "star": {"regexp": "[1-5][.][0-5]"},"favorite":{"boolean" : {}}
   }
   }
