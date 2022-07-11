@@ -5,7 +5,7 @@
     },
     "distant": {"regexp": "[1-9][0-9]{1,3}[m]{1}"},
     "img": {
-      "list": [
+      "string": [
         "assets/images/tirtagangga.jpg,assets/images/tirtagangga1.jpg,assets/images/tirtagangga2.jpg",
         "assets/images/ujungkulon.JPG,assets/images/ujungkulon1.JPG,assets/images/ujungkulon2.JPG"
       ]
@@ -29,7 +29,7 @@
       "string": ["Nusa Penida", "Denpasar", "Nusa Lembongan"]
     },
     "img": {
-      "list": [
+      "string": [
         "assets/images/landingPage.png,assets/images/landing2.jpg,assets/images/landing3.jpg",
         "assets/images/gwk.jpg,assets/images/gwk1.jpg,assets/images/gwk2.jpg",
         "assets/images/nusalembongan.jpg,assets/images/nusalembongan1.jpg,assets/images/nusalembongan.jpg2"
